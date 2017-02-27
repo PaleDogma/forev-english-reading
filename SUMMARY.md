@@ -4,3 +4,5 @@
 * [Day 2](nce3-29-2.md)
 * [Day 3](nce3-30-1.md)
 * [Day 4](nce3-30-2.md)
+* [Day 5](nce3-31-1.md)
+* [Day 6](nce3-31-2.md)
