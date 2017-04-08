@@ -8,3 +8,4 @@
 * [Day 6](nce3-31-2.md)
 * [Day 38](nce3-45-2.md)
 * [Day 39](nce3-46-1.md)
+* [Day 40](nce3-46-2.md)
