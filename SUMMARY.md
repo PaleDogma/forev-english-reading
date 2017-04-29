@@ -10,4 +10,5 @@
 * [Passage 39](nce3-46-1.md)
 * [Passage 40](nce3-46-2.md)
 * [Passage 41](nce3-46-3.md)
-* [NCE3 L46 P1](nce3-55-1.md)
+* [NCE3 L55 P1](nce3-55-1.md)
+* [NCE3 L55 P2](nce3-55-2.md)
