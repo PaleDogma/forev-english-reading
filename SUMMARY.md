@@ -25,4 +25,4 @@
 * [NCE3 L57 P4](nce3-57-4.md)
 * [NCE3 L58 P1](nce3-58-1.md)
 * [NCE3 L58 P2](nce3-58-2.md)
-
+* [NCE3 L58 P3](nce3-58-3.md)
