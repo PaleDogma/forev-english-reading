@@ -26,3 +26,6 @@
 * [NCE3 L58 P1](nce3-58-1.md)
 * [NCE3 L58 P2](nce3-58-2.md)
 * [NCE3 L58 P3](nce3-58-3.md)
+* [NCE3 L59 P1](nce3-59-1.md)
+* [NCE3 L59 P2](nce3-59-2.md)
+* [NCE3 L59 P3](nce3-59-3.md)
