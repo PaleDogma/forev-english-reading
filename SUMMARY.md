@@ -29,3 +29,7 @@
 * [NCE3 L59 P1](nce3-59-1.md)
 * [NCE3 L59 P2](nce3-59-2.md)
 * [NCE3 L59 P3](nce3-59-3.md)
+* [NCE3 L60 P1](nce3-60-1.md)
+* [NCE3 L60 P2](nce3-60-2.md)
+* [NCE3 L60 P3](nce3-60-3.md)
+* [NCE3 L60 P4](nce3-60-4.md)
