@@ -34,6 +34,6 @@
     * [NCE3 L60 P2](nce3-60-2.md)
     * [NCE3 L60 P3](nce3-60-3.md)
     * [NCE3 L60 P4](nce3-60-4.md)
-NCE 4
+* NCE 4
     * [NCE4 L01 P1](nce4-01-1.md)
     * [NCE4 L01 P2](nce4-01-2.md)
