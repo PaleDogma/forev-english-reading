@@ -42,3 +42,4 @@
     * [NCE4 L03 P1](nce4-03-1.md)
     * [NCE4 L03 P2](nce4-03-2.md)
     * [NCE4 L04 P1](nce4-04-1.md)
+    * [NCE4 L04 P2](nce4-04-2.md)
