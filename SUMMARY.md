@@ -46,3 +46,5 @@
     * [NCE4 L07 P2](nce4-07-2.md)
     * [NCE4 L08 P1](nce4-08-1.md)
     * [NCE4 L08 P2](nce4-08-2.md)
+    * [NCE4 L09 P1](nce4-09-1.md)
+    * [NCE4 L09 P2](nce4-09-2.md)
