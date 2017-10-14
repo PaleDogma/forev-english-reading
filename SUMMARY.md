@@ -1,5 +1,13 @@
 # SUMMARY
 * [Introduction](README.md)
+
+
+* Round 3
+* NCE2
+    * [NCE2 L19 P1](Round3rd/nce2/nce2-19-1.md)
+
+
+* Round 2
 * NCE 3
     * [NCE3 L29 P1](Round2nd/nce3/nce3-29-1.md)
     * [NCE3 L29 P2](Round2nd/nce3/nce3-29-2.md)
@@ -33,8 +41,8 @@
     * [NCE3 L60 P1](Round2nd/nce3/nce3-60-1.md)
     * [NCE3 L60 P2](Round2nd/nce3/nce3-60-2.md)
     * [NCE3 L60 P3](Round2nd/nce3/nce3-60-3.md)
-    * [NCE3 L60 P4](Round2nd/nce3/nce3-60-4.md)
-* NCE 4
+* [NCE3 L60 P4](Round2nd/nce3/nce3-60-4.md)
+    * NCE 4
     * [NCE4 L01 P1](Round2nd/nce4/nce4-01-1.md)
     * [NCE4 L01 P2](Round2nd/nce4/nce4-01-2.md)
     * [NCE4 L02 P1](Round2nd/nce4/nce4-02-1.md)
@@ -63,4 +71,4 @@
     * [NCE4 L21 P1](Round2nd/nce4/nce4-21-1.md)
     * [NCE4 L21 P2](Round2nd/nce4/nce4-21-2.md)
     * [NCE4 L22 P1](Round2nd/nce4/nce4-22-1.md)
-    * [NCE4 L43 P1](Round2nd/nce4/nce4-43-1.md)
+* [NCE4 L43 P1](Round2nd/nce4/nce4-43-1.md)
