@@ -5,6 +5,9 @@
 * Round 3
 * NCE2
     * [NCE2 L19 P1](Round3rd/nce2/nce2-19-1.md)
+    * [NCE2 L20 P1](Round3rd/nce2/nce2-20-1.md)
+    * [NCE2 L21 P1](Round3rd/nce2/nce2-21-1.md)
+    * [NCE2 L22 P1](Round3rd/nce2/nce2-22-1.md)
 
 
 * Round 2
