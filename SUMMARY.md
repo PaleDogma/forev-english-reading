@@ -10,6 +10,14 @@
     * [NCE2 L22 P1](Round3rd/nce2/nce2-22-1.md)
     * [NCE2 L23 P1](Round3rd/nce2/nce2-23-1.md)
     * [NCE2 L25 P1](Round3rd/nce2/nce2-25-1.md)
+    * [NCE2 L28 P1](Round3rd/nce2/nce2-28-1.md)
+    * [NCE2 L32 P1](Round3rd/nce2/nce2-32-1.md)
+    * [NCE2 L33 P1](Round3rd/nce2/nce2-33-1.md)
+    * [NCE2 L34 P1](Round3rd/nce2/nce2-34-1.md)
+    * [NCE2 L35 P1](Round3rd/nce2/nce2-35-1.md)
+    * [NCE2 L36 P1](Round3rd/nce2/nce2-36-1.md)
+    * [NCE2 L39 P1](Round3rd/nce2/nce2-39-1.md)
+    * [NCE2 L47 P1](Round3rd/nce2/nce2-47-1.md)
 
 
 * Round 2
