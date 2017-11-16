@@ -22,6 +22,7 @@
     * [NCE2 L49 P1](Round3rd/nce2/nce2-49-1.md)
     * [NCE2 L50 P1](Round3rd/nce2/nce2-50-1.md)
     * [NCE2 L51 P1](Round3rd/nce2/nce2-51-1.md)
+    * [NCE2 L52 P1](Round3rd/nce2/nce2-52-1.md)
 
 
 * Round 2
