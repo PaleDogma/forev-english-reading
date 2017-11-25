@@ -30,6 +30,7 @@
     * [NCE2 L57 P1](Round3rd/nce2/nce2-57-1.md)
     * [NCE2 L58 P1](Round3rd/nce2/nce2-58-1.md)
     * [NCE2 L59 P1](Round3rd/nce2/nce2-59-1.md)
+    * [NCE2 L61 P1](Round3rd/nce2/nce2-61-1.md)
 
 
 
