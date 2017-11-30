@@ -36,6 +36,7 @@
     * [NCE2 L63 P1](Round3rd/nce2/nce2-63-1.md)
     * [NCE2 L64 P1](Round3rd/nce2/nce2-64-1.md)
     * [NCE2 L65 P1](Round3rd/nce2/nce2-65-1.md)
+    * [NCE2 L66 P1](Round3rd/nce2/nce2-66-1.md)
 
 
 
