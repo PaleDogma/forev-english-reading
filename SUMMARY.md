@@ -4,7 +4,6 @@
 
 * Round 3
 * NCE2
-
     * [NCE2 L19 P1](Round3rd/nce2/nce2-19-1.md)
     * [NCE2 L20 P1](Round3rd/nce2/nce2-20-1.md)
     * [NCE2 L21 P1](Round3rd/nce2/nce2-21-1.md)
@@ -38,8 +37,6 @@
     * [NCE2 L64 P1](Round3rd/nce2/nce2-64-1.md)
     * [NCE2 L65 P1](Round3rd/nce2/nce2-65-1.md)
     * [NCE2 L66 P1](Round3rd/nce2/nce2-66-1.md)
-
-
 
 * Round 2
 * NCE 3
@@ -77,7 +74,6 @@
     * [NCE3 L60 P3](Round2nd/nce3/nce3-60-3.md)
     * [NCE3 L60 P4](Round2nd/nce3/nce3-60-4.md)
 * NCE 4
-
     * [NCE4 L01 P1](Round2nd/nce4/nce4-01-1.md)
     * [NCE4 L01 P2](Round2nd/nce4/nce4-01-2.md)
     * [NCE4 L02 P1](Round2nd/nce4/nce4-02-1.md)
